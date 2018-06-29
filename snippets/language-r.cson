@@ -47,8 +47,8 @@
   'Grep':
     'prefix': 'grep'
     'body': 'grep(${1:pattern}, ${2:x}, ${3:ignore.case = ${4:FALSE}}, ${5:perl = ${6:FALSE}})'
-  'Grep':
-    'prefix': 'grep'
+  'Grep big':
+    'prefix': 'grepb'
     'body': 'grep(${1:pattern}, ${2:x}, ${3:ignore.case = ${4:FALSE}}, ${5:perl = ${6:FALSE}}, ${7:value = ${8:FALSE}}, ${9:fixed = ${10:TRUE}})'
   'Grep logical':
     'prefix': 'grepl'
