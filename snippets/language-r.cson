@@ -111,7 +111,7 @@
     'prefix': 'pas0'
     'body': 'paste(${1:\...}, ${2:collapse = ${3:NULL}})'
   'Plot':
-    'prefix': 'print'
+    'prefix': 'plot'
     'body': 'plot(${1:x}, ${2:y}, ${3:\...})'
   'Points':
     'prefix': 'poi'
@@ -120,7 +120,7 @@
     'prefix': 'lin'
     'body': 'lines(${1:x}${2:, color=${3:red}})'
   'Print':
-    'prefix': 'pri'
+    'prefix': 'print'
     'body': 'print(${1:x}, ${2:\...})'
   'Quantile':
     'prefix': 'qua'
